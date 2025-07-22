@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    float a, b;
+    cin >> a >> b;
+
+    float MEDIA = (a + b)/2;
+
+    cout << "MEDIA  = " << MEDIA << endl;
+
+    return 0;
+}
